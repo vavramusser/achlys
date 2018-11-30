@@ -1,0 +1,26 @@
+@prefix achlys: <https://github.com/vavramusser/achlys/>.
+@prefix agrovoc: <http://aims.fao.org/aos/agrovoc/> .
+@prefix cabt: <http://id.cabi.org/cabt/> .
+@prefix gacs: <http://id.agrisemantics.org/gacs/> .
+@prefix nalt: <http://lod.nal.usda.gov/nalt/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+achlys:s00001 a gacs:C1723;
+     rdfs:label “acephate 97up insecticide”^^xsd:string;
+     gacs:C19299 gacs:C284;
+     #achlys:activepercent “0.97”^^xsd:decimal;
+
+#achlys:s00002 a gacs:C1723;
+     #rdfs:label “orthene pco pellets”^^xsd:string;
+     #gacs:C19299 gacs:C284;
+     #achlys:activepercent “0.947”^^xsd:decimal;
+
+#achlys:s00003 a gacs:C1723;
+     #rdfs:label “tenkoz acepahte 97 insecticide”^^xsd:string:
+     #gacs:C19299 gacs:C284;
+     #achlys:activepercent “0.97”^^xsd:decimal;
+
