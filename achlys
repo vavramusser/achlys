@@ -10,17 +10,17 @@
 
 
 achlys:s00001 a gacs:C1723;
-     rdfs:label “acephate 97up insecticide”^^xsd:string;
+     rdfs:label "acephate 97up insecticide"^^xsd:string;
      gacs:C19299 gacs:C284;
-     #achlys:activepercent “0.97”^^xsd:decimal;
+     #achlys:activepercent "0.97"^^xsd:decimal;
 
 #achlys:s00002 a gacs:C1723;
-     #rdfs:label “orthene pco pellets”^^xsd:string;
+     #rdfs:label "orthene pco pellets"^^xsd:string;
      #gacs:C19299 gacs:C284;
-     #achlys:activepercent “0.947”^^xsd:decimal;
+     #achlys:activepercent "0.947"^^xsd:decimal;
 
 #achlys:s00003 a gacs:C1723;
-     #rdfs:label “tenkoz acepahte 97 insecticide”^^xsd:string:
+     #rdfs:label "tenkoz acepahte 97 insecticide"^^xsd:string:
      #gacs:C19299 gacs:C284;
-     #achlys:activepercent “0.97”^^xsd:decimal;
+     #achlys:activepercent "0.97"^^xsd:decimal;
 
